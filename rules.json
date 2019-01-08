@@ -1,5 +1,5 @@
 {
-  "rulesDirectory": ["node_modules/codelyzer", "node_modules/tslint-microsoft-contrib"],
+  "rulesDirectory": ["codelyzer", "tslint-microsoft-contrib"],
   "extends": ["tslint:latest", "rxjs-tslint-rules", "tslint-config-prettier", "tslint-config-airbnb"],
   "rules": {
     "arrow-return-shorthand": true,
