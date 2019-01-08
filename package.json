@@ -1,0 +1,47 @@
+{
+  "name": "@starlab/tslint-config",
+  "version": "1.0.0",
+  "description": "StarLab TSLint configuration",
+  "main": "index.js",
+  "files": [
+    "rules.json"
+  ],
+  "scripts": {
+    "test": "echo \"no tests yet\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kryshac/tslint-config.git"
+  },
+  "keywords": [
+    "starlab",
+    "frontend",
+    "typescript",
+    "angular",
+    "tslint",
+    "config",
+    "rules"
+  ],
+  "author": "Kryshac",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kryshac/tslint-config/issues"
+  },
+  "homepage": "https://github.com/kryshac/tslint-config#readme",
+  "peerDependencies": {
+    "tslint": "5.12.0",
+    "typescript": "^3.2.2"
+  },
+  "dependencies": {
+    "@angular/compiler": "^7.2.0",
+    "@angular/core": "^7.2.0",
+    "codelyzer": "^4.5.0",
+    "rxjs": "^6.3.3",
+    "rxjs-tslint-rules": "^4.14.3",
+    "tslint": "^5.12.0",
+    "tslint-config-airbnb": "^5.11.1",
+    "tslint-config-prettier": "^1.17.0",
+    "tslint-microsoft-contrib": "^6.0.0",
+    "typescript": "^3.2.2"
+  }
+}
