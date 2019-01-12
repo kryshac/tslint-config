@@ -1,6 +1,6 @@
 {
   "name": "@starlab/tslint-config",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "StarLab TSLint configuration",
   "main": "index.js",
   "files": [
