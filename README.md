@@ -21,3 +21,10 @@ and then add it as extension in your `tslint.json` file:
   "extends": ["@starlab/tslint-config"]
 }
 ```
+
+The corresponding `tslint.yaml` file looks like this:
+
+```json
+extends:
+  - @starlab/tslint-config
+```
