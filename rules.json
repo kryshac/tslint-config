@@ -123,6 +123,7 @@
       {
         "allow-type-parameters": true
       }
-    ]
+    ],
+    "rxjs-no-exposed-subjects": true
   }
 }
