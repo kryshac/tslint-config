@@ -68,13 +68,19 @@
     "unified-signatures": true,
     "variable-name": false,
     "whitespace": false,
+    "contextual-decorator": true,
+    "contextual-lifecycle": true,
+    "no-conflicting-lifecycle": true,
     "no-output-on-prefix": true,
-    "use-input-property-decorator": true,
-    "use-output-property-decorator": true,
-    "use-host-property-decorator": true,
+    "no-inputs-metadata-property": true,
+    "no-outputs-metadata-property": true,
+    "no-host-metadata-property": true,
     "no-input-rename": false,
     "no-output-rename": false,
-    "use-life-cycle-interface": true,
+    "prefer-on-push-component-change-detection": true,
+    "no-unused-css": true,
+    "template-accessibility-alt-text": true,
+    "use-lifecycle-interface": true,
     "use-pipe-transform-interface": true,
     "component-class-suffix": true,
     "directive-class-suffix": true,
@@ -123,6 +129,7 @@
       {
         "allow-type-parameters": true
       }
-    ]
+    ],
+    "rxjs-no-exposed-subjects": true
   }
 }
