@@ -10,7 +10,7 @@
   "license": "ISC",
   "devDependencies": {
     "@starlab/tslint-config": "../",
-    "tslint": "^5.12.0",
-    "typescript": "^3.2.2"
+    "tslint": "^5.16.0",
+    "typescript": "^3.4.5"
   }
 }
