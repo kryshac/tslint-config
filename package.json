@@ -30,14 +30,14 @@
   "homepage": "https://github.com/kryshac/tslint-config#readme",
   "peerDependencies": {
     "@angular/compiler": "^7.2.12",
-    "@angular/core": "^7.2.12",
+    "@angular/core": "^11.0.5",
     "codelyzer": "^5.0.0",
     "rxjs": "^6.4.0",
     "typescript": "~3.2.4"
   },
   "dependencies": {
     "@angular/compiler": "^7.2.12",
-    "@angular/core": "^7.2.12",
+    "@angular/core": "^11.0.5",
     "codelyzer": "^5.0.0",
     "rxjs": "^6.4.0",
     "rxjs-tslint-rules": "^4.19.1",
